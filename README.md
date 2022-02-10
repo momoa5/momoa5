@@ -1,12 +1,12 @@
 # Hi everyone! 👋
-My name is Adam Daniel. I'm computer science student with a passion for mobile development mainly native develop for <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android"></code>.
+My name is Adam Daniel. I'm computer science student with a passion for mobile development mainly native develop for <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android">.
 
 ## :pushpin: What I'm currently working on
 - 📱 [ALA](https://github.com/momoa5/ALA) (Bachelor thesis) - Mobile app for Android which include small cash register system.
 - Improving OOP (Object-oriented programming) 
 
 ## :heavy_check_mark: What I've already done
-- 📱 [Narovnej se!](https://play.google.com/store/apps/details?id=cz.freelancer.narovnejse&hl=cs) - Android app which specialise in life style - corect posture <code><img height="20" src="https://play-lh.googleusercontent.com/IyqWD2owOMaLi-pT6SKZMcbxzquB5YWUfRnyUS3ZwmqvZMixRF_0gcbkZUaEyfuC1tA=s180-rw" alt="android"></code>
+- 📱 [Narovnej se!](https://play.google.com/store/apps/details?id=cz.freelancer.narovnejse&hl=cs) - Android app which specialise in life style - corect posture <img height="22" src="https://play-lh.googleusercontent.com/IyqWD2owOMaLi-pT6SKZMcbxzquB5YWUfRnyUS3ZwmqvZMixRF_0gcbkZUaEyfuC1tA=s180-rw" alt="android">
 
 
 <!--
