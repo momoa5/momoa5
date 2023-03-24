@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Android%20developer;Junior%20Java%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=a4c639&vCenter=true&size=18"></a>
 </p>
 
-My name is Adam Daniel. I'm computer science student with a passion for mobile development mainly native develop for <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android">
+My name is Adam Daniel. I'm computer science student with a passion for mobile development mainly native development for <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android">
 
 ## :pushpin: What I'm currently working on
 - 📱 [ALA](https://github.com/momoa5/ALA) (Bachelor thesis) - Mobile app for Android which include small cash register system.
